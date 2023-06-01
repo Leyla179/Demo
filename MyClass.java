@@ -8,5 +8,6 @@ public class MyClass {
 
         System.out.println("My Main");
          System.out.println("Second");
+          System.out.println("Hello All!");
     }
 }
